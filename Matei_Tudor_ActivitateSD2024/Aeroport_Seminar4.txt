@@ -1,0 +1,5 @@
+1,Otopeni,20
+2,Baneasa,10
+3,Sibiu,15
+4,Baia mare,12
+5,Frankfurt,40
